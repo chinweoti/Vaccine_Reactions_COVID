@@ -1,0 +1,4 @@
+Datasets:
+Adverse Reactions: https://vaers.hhs.gov/data/datasets.html?  
+US Population by State: https://worldpopulationreview.com/states
+Vaccine Data: https://github.com/govex/COVID-19/blob/master/data_tables/vaccine_data/us_data/hourly/vaccine_people_vaccinated_US.csv
